@@ -1,0 +1,5 @@
+Ram     manager     IT          30000
+Akshay  account    marketing    40000
+shobit  sales      marketing    21000
+varun   GM         logistic     30000
+ransh   GM         Sales        20000
